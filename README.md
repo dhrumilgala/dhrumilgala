@@ -8,7 +8,7 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 - 🌱  I am currently looking to collaborate in Machine Learning
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tanveeshs&theme=light&show_icons=true)<h4 align='center'>📫 Reach me on</h4>
+![Github stats](https://github-readme-stats.vercel.app/api?username=dhrumilgala&theme=light&show_icons=true)<h4 align='center'>📫 Reach me on</h4>
 
 <p align='center'>
 
