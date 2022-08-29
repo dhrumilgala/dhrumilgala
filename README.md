@@ -8,7 +8,7 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 - 💼 Former Machine Learning Intern at Grroom
 
-- 🌱  I am currently looking to collaborate in Web Development and AI/Machine Learning.
+- 🌱  I am currently looking to collaborate in Web Development and AI/Machine Learning Projects.
 
 <h2 align='center'>Some of my GitHub Stats</h2>
 
