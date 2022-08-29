@@ -2,10 +2,10 @@
 
 <p align='center'>
   <a href='mailto:dgala@usc.edu' target="_blank">
-      <img src='https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.soham2000@gmail.com'>
+      <img src='https://img.shields.io/badge/-dgala@usc.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dgala@usc.edu'>
   </a>
   <a href='https://www.linkedin.com/in/dhrumilgala/' target="_blank">
-      <img src='https://img.shields.io/badge/-SohamDave-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/'>
+      <img src='https://img.shields.io/badge/-DhrumilGalab1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhrumilgala/'>
   </a>
   
 <!-- [![Gmail Badge](https://img.shields.io/badge/-dgala@usc.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dgala@usc.edu)](mailto:dgala@usc.edu) 
