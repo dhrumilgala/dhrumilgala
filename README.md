@@ -31,8 +31,3 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumilGala&layout=compact&theme=dark&hide=dart,MakeFile&langs_count=8)](https://github.com/DhrumilGala/github-readme-stats)
 
 
-<h4 align='center'>📫 Reach me on</h4>
-
-<p align='center'>
-
-
