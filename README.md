@@ -35,6 +35,4 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 <p align='center'>
 
-<a href = https://www.linkedin.com/in/dhrumilgala><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/dhrumilgala><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
-
 
