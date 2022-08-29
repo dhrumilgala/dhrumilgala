@@ -4,9 +4,11 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 ### I'm currently
 
+- 💼 Former Full Stack Web Development Intern at OYE (Organization for Youth and Elderly)
+
 - 💼 Former Machine Learning Intern at Grroom
 
-- 🌱  I am currently looking to collaborate in AI
+- 🌱  I am currently looking to collaborate in Web Development and AI/Machine Learning.
 
 <h2 align='center'>Some of my GitHub Stats</h2>
 
