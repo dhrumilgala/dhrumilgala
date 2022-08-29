@@ -1,4 +1,17 @@
 # Hi there, I'm Dhrumil Gala👋🏼👨🏻‍💻
+
+<p align='center'>
+  <a href='mailto:dgala@usc.edu' target="_blank">
+      <img src='https://img.shields.io/badge/-dave.soham2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dave.soham2000@gmail.com'>
+  </a>
+  <a href='https://www.linkedin.com/in/dhrumilgala/' target="_blank">
+      <img src='https://img.shields.io/badge/-SohamDave-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/'>
+  </a>
+  
+<!-- [![Gmail Badge](https://img.shields.io/badge/-dgala@usc.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dgala@usc.edu)](mailto:dgala@usc.edu) 
+[![Linkedin Badge](https://img.shields.io/badge/-dhrumilgala-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhrumilgala//)](https://www.linkedin.com/in/dhrumilgala//)-->
+</p>
+
 ### About me 🤓
 A tech enthusiast with passion to solve problems and to make things. Proven skills in MERN Stack, Machine learning, Data Science, Java, Python, JavaScript with work experience in various organizations and startups and I believe that I am a versatile learner and can get going with any sort of work.
 
