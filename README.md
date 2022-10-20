@@ -17,11 +17,13 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 
 ### Work Experience
 
+- 💼 IT Technical Support at the USC Office of Cultural Relations and University Events 
+
 - 💼 Former Full Stack Web Development Intern at OYE (Organization for Youth and Elderly)
 
 - 💼 Former Machine Learning Intern at Grroom
 
-- 🌱  I am currently looking to collaborate in Web Development and AI/Machine Learning Projects.
+- 🌱  I am currently looking to collaborate in Web Development, AI/Machine Learning or Data Anaytics Projects.
 
 <h2 align='center'> My Tech Bag </h2>
 <p align='center'>
