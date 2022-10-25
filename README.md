@@ -47,11 +47,5 @@ A tech enthusiast with passion to solve problems and to make things. Proven skil
 <br>
 </p>
 
-<h2 align='center'>Some of my GitHub Stats</h2>
-
-<p align=center> <img src=https://komarev.com/ghpvc/?username=DhrumilGala alt=DhrumilGala /> </p>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=dhrumilgala&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumilGala&layout=compact&theme=dark&hide=dart,MakeFile&langs_count=8)](https://github.com/DhrumilGala/github-readme-stats)
 
 
