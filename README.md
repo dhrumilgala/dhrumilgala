@@ -16,9 +16,11 @@
 A tech enthusiast with passion to solve problems and to make things. Proven skills in MERN Stack, Machine learning, Data Science, Java, Python, JavaScript with work experience in various organizations and startups and I believe that I am a versatile learner and can get going with any sort of work.
 
 ### Work Experience
-- 💼 Summer Data Engineering Intern @LOGIS 
+- 💼 Current Data Engineer at LOGIS 
 
-- 💼 IT Technical Support at the USC Office of Cultural Relations and University Events 
+- 💼 Former Data Engineer at USC ITS
+
+- 💼 Former Software Developer at the USC Office of Cultural Relations and University Events 
 
 - 💼 Former Full Stack Web Development Intern at OYE (Organization for Youth and Elderly)
 
