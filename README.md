@@ -16,7 +16,9 @@
 A tech enthusiast with passion to solve problems and to make things. Proven skills in MERN Stack, Machine learning, Data Science, Java, Python, JavaScript with work experience in various organizations and startups and I believe that I am a versatile learner and can get going with any sort of work.
 
 ### Work Experience
-- 💼 Current Data Engineer at LOGIS 
+- 💼 Current Data and Reporting Specialist at LFP(Ameriprise Financial) 
+
+- 💼 Former Data Engineer at LOGIS 
 
 - 💼 Former Data Engineer at USC ITS
 
