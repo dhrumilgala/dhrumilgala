@@ -13,10 +13,10 @@
 </p>
 
 ### About me 🤓
-A tech enthusiast with passion to solve problems and to make things. Proven skills in MERN Stack, Machine learning, Data Science, Java, Python, JavaScript with work experience in various organizations and startups and I believe that I am a versatile learner and can get going with any sort of work.
+A tech enthusiast with passion to solve problems and to make things. Proven skills in Databases, Machine learning, Data Science, Java, Python, JavaScript with work experience in various organizations and startups and I believe that I am a versatile learner and can get going with any sort of work.
 
 ### Work Experience
-- 💼 Current Database Adminstrator at LFP(Ameriprise Financial) 
+- 💼 Current Database Adminstrator at LFP
 
 - 💼 Former Database Analyst at LOGIS 
 
